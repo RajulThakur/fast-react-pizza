@@ -54,7 +54,7 @@ function MenuItem({ pizza }) {
             <Button type="small" onClick={handleAddToCart}>
               Add to Cart
             </Button>
-          )}{" "}
+          )}
         </div>
       </div>
     </li>
