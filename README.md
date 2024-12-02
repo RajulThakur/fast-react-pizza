@@ -2,6 +2,17 @@
 
 A modern React application for ordering pizzas online with real-time order tracking and location-based delivery.
 
+## Demo 🎥
+
+![App Demo](./public/demo.gif)
+
+*Quick walkthrough of core features:*
+- User registration
+- Menu browsing
+- Cart management
+- Order placement
+- Real-time tracking
+
 ## Features
 
 - 🛒 Real-time cart management with Redux
